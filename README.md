@@ -6,4 +6,7 @@
 ##### https://spinningup.openai.com/en/latest/
 ##### https://github.com/huggingface/trl/tree/main/examples/research_projects/stack_llama/scripts
 ##### https://huggingface.co/blog/stackllama
-
+##### Residual Diffusion Modeling for Km-scale Atmospheric
+Downscaling
+##### QCNet  QCnext  simple
+##### Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving
