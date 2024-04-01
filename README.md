@@ -10,3 +10,5 @@
 Downscaling
 ##### QCNet  QCnext  simple
 ##### Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving
+##### [https://www.youtube.com/watch?v=rihPNj4va4E](https://www.youtube.com/watch?v=sOPgdIMUC0Y) 
+##### https://www.youtube.com/watch?v=8Mr7k8fJGqE
