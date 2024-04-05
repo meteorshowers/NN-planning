@@ -14,6 +14,7 @@ Downscaling
 ##### https://www.youtube.com/watch?v=8Mr7k8fJGqE
 ##### MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion
 ##### https://waymo.com/open/challenges/2024/motion-prediction/
+##### https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction
 ##### https://zhuanlan.zhihu.com/p/656099228?utm_id=0
 ##### Intention-aware Denoising Diffusion Model for Trajectory Prediction
 
