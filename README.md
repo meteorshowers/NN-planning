@@ -18,4 +18,11 @@ Downscaling
 ##### https://waymo.com/research/
 ##### https://zhuanlan.zhihu.com/p/656099228?utm_id=0
 ##### Intention-aware Denoising Diffusion Model for Trajectory Prediction
+##### Leapfrog Diffusion Model for Stochastic Trajectory Prediction
+##### Interpretable Motion Planner for Urban Driving via Hierarchical
+Imitation Learning
+##### SmartRefine: A Scenario-Adaptive Refinement Framework
+for Efficient Motion Prediction
+##### Leapfrog Diffusion Model for Stochastic Trajectory Prediction
+
 
