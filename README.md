@@ -12,6 +12,10 @@ Downscaling
 ##### Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving
 ##### [https://www.youtube.com/watch?v=rihPNj4va4E](https://www.youtube.com/watch?v=sOPgdIMUC0Y) 
 ##### https://www.youtube.com/watch?v=8Mr7k8fJGqE
+
+##### Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion
+##### Interpretable Motion Planner for Urban Driving via Hierarchical
+Imitation Learning
 ##### MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion
 ##### https://waymo.com/open/challenges/2024/motion-prediction/
 ##### https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction
@@ -19,10 +23,5 @@ Downscaling
 ##### https://zhuanlan.zhihu.com/p/656099228?utm_id=0
 ##### Intention-aware Denoising Diffusion Model for Trajectory Prediction
 ##### Leapfrog Diffusion Model for Stochastic Trajectory Prediction
-##### Interpretable Motion Planner for Urban Driving via Hierarchical
-Imitation Learning
 ##### SmartRefine: A Scenario-Adaptive Refinement Framework
 for Efficient Motion Prediction
-##### Leapfrog Diffusion Model for Stochastic Trajectory Prediction
-
-
