@@ -28,13 +28,13 @@
 ##### https://zhuanlan.zhihu.com/p/656099228?utm_id=0
 
 ##### https://www.youtube.com/watch?v=RzfzKU95nPA&t=461s tesla
-##### Parting with Misconceptions about
-Learning-based Vehicle Motion Planning
+##### Parting with Misconceptions about Learning-based Vehicle Motion Planning
 ##### End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps
 ##### Occupancy Prediction-Guided Neural Planner for Autonomous Driving
 ##### Tree-structured Policy Planning with Learned Behavior Models
 ##### Imitation with Spatial-Temporal Heatmap
 ##### Imitation Is Not Enough: Robustifying Imitation with Reinforcement Learning for Challenging Driving Scenarios
+
 
 
 
