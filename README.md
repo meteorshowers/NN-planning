@@ -34,6 +34,7 @@
 ##### Tree-structured Policy Planning with Learned Behavior Models
 ##### Imitation with Spatial-Temporal Heatmap
 ##### Imitation Is Not Enough: Robustifying Imitation with Reinforcement Learning for Challenging Driving Scenarios
+##### Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation
 
 
 
