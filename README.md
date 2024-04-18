@@ -38,5 +38,9 @@
 ##### Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation
 
 
+## simulator
+##### BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout
+##### 
+
 
 
