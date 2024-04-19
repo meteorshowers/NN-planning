@@ -37,7 +37,7 @@
 ##### Imitation Is Not Enough: Robustifying Imitation with Reinforcement Learning for Challenging Driving Scenarios
 ##### Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation
 
-
+##### vectornet   TNT & denseTNT  multipath & multipath++ scenetransformer wayformer https://ronaldsun.github.io/posts/prediction-summary/#scene-transformer2022-waymo 
 ## simulator
 ##### BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout
 ##### 
