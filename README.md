@@ -23,6 +23,13 @@
 
 ##### Interpretable Motion Planner for Urban Driving via Hierarchical Imitation Learning
 ##### MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion
+##### NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration
+##### ViNT: A Foundation Model for Visual Navigation
+##### https://general-navigation-models.github.io/
+##### policy diffusion
+##### crossway diffusion
+##### PLUTO: Pushing the Limit of Imitation Learning-based Planning for AUTOnomous Driving
+##### Rethinking Imitation-based Planners for Autonomous Driving
 ##### https://waymo.com/open/challenges/2024/motion-prediction/
 ##### https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction
 ##### https://waymo.com/research/
