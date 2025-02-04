@@ -54,6 +54,7 @@
 ##### BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout
 ##### NeuroNCAP Photorealistic Closed-loop Safety Testing for Autonomous Driving
 ##### Traffic Flow-Based Crowdsourced Mapping in Complex Urban Scenario
+##### InfinityDrive
 
 
 
